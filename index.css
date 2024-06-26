@@ -1,0 +1,58 @@
+
+
+body {
+    background-image: url("pic.webp");
+    background-size: cover;
+   
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:normal;
+    font-size: medium;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.615);
+}
+
+.container {
+   
+    background:lightgrey;
+    max-width: 50%;
+    margin-top: 50px;
+    margin-left: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+#save-el {
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgba(0, 0, 0, 0.615);
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#increment-btn {
+    background: darkgray;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#save-btn {
+    background: darkgray;
+    border: 2px solid black;
+    border-radius: 10px;
+}
